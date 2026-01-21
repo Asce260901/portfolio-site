@@ -80,9 +80,8 @@
   }
   img{
     border-radius: 50%;
-    position: absolute;
-    top: 0;
-    left: 0;
+    width: 100px;
+    height: 100px;
   }
   div USF-Image{
     position: absolute;

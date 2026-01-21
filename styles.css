@@ -79,6 +79,7 @@
     margin-bottom: 0.25rem;
   }
   div eye-container{
+    border-radius: 50%;
     height: 0;
     overflow: hidden;
     animation: openEye 2s forwards;

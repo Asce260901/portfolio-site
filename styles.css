@@ -84,3 +84,8 @@
     top: 0;
     left: 0;
   }
+  div USF-Image{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }

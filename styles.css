@@ -80,4 +80,7 @@
   }
   h3 img{
     border-radius: 50%;
+    position: absolute;
+    top: 0;
+    left: 0;
   }

@@ -80,11 +80,4 @@
   }
   h3 img{
     border-radius: 50%;
-    height: 0;
-    overflow: hidden;
-    animation: openEye 2s forwards;
-  }
-  @keyframes openEye {
-    0% {height: 0; }
-    100% {height: 200px; }
   }

@@ -1,1 +1,1 @@
-## This is my first portfolio website
+## This is my first portfolio, just sharing a bit about me

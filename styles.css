@@ -112,6 +112,7 @@
 
 .badge-base.LI-profile-badge {
   display: block ;
-  margin: 16px 0;
+  width: fit-content;
+  margin: 16px auto;
   min-height: 300px;            
 }

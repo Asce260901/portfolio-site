@@ -106,12 +106,12 @@
     height: 150px;
   }
   footer {
-  overflow: visible !important;  /* prevents clipping */
-  height: auto !important;
+  overflow: visible ;  
+  height: auto ;
 }
 
 .badge-base.LI-profile-badge {
-  display: block !important;
+  display: block ;
   margin: 16px 0;
-  min-height: 300px;             /* gives room for iframe */
+  min-height: 300px;            
 }
